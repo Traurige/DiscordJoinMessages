@@ -1,0 +1,6 @@
+name: DiscordJoinMessages
+version: '${project.version}'
+main: auraoflove.discordjoinmessages.DiscordJoinMessages
+authors: [ Traurige ]
+description: Send one of Discord's random welcome messages when a player joins.
+website: https://auraof.love
